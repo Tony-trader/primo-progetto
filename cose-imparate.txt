@@ -1,0 +1,2 @@
+commit: salvare una fotografia del progetto
+branch: una copia per provere idee senza rischi
